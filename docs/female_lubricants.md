@@ -1,3 +1,3 @@
 layout: page
 title: "FEMALE LUBRICANTS"
-permalink: /https://aliasynn.github.io
+permalink: /https://aliasynn.github.io/female_lubricants/
